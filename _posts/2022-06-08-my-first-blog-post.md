@@ -2,4 +2,12 @@
 title: "Cool Biography"
 date: 2022-06-08
 ---
-Hi this is my blog
+Andrew Herh
+![Alt Text](/_posts/IMG_1213.HEIC)
+Instagram: @aherh901
+Tiktok: @andrewherh
+
+Brag Sheet:
+Cecilian Music Competition 2 time Gold Winner
+I can make a fried egg
+I have a 100% in AP Computer Science
